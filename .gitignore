@@ -1,0 +1,6 @@
+# MODULES
+node_modules
+
+# AUTH
+token.json
+credentials.json
